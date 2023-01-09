@@ -1,6 +1,6 @@
 Package: com.darwindev.alternative-springboardservices
 Name: Alternative SpringBoardServices
-Version: 0.1-1
+Version: 0.1-2
 Section: Tweaks
 Depends: firmware (>= 13.0), com.rpetrich.rocketbootstrap, com.opa334.libsandy
 Architecture: iphoneos-arm

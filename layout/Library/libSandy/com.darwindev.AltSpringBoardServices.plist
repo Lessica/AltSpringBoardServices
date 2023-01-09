@@ -40,6 +40,22 @@
 			<key>mach_name</key>
 			<string>lh:rbs:com.darwindev.AltSpringBoardServices</string>
 		</dict>
+		<dict>
+			<key>type</key>
+			<string>mach</string>
+			<key>extension_class</key>
+			<string>com.apple.security.exception.mach-lookup.global-name</string>
+			<key>mach_name</key>
+			<string>cy:rbs:com.darwindev.AltSpringBoardServices</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>mach</string>
+			<key>extension_class</key>
+			<string>com.apple.security.exception.mach-register.global-name</string>
+			<key>mach_name</key>
+			<string>cy:rbs:com.darwindev.AltSpringBoardServices</string>
+		</dict>
 	</array>
 </dict>
 </plist>
